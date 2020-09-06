@@ -1,2 +1,3 @@
-# SFQAP_public
-Skillfactory QAP public repo Task 9.2.4
+# Skillfactory
+## Тестировщик-автоматизатор на python
+### Task 9.2.4
